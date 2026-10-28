@@ -1,2 +1,0 @@
-# WebD-26-27-sem1
-HTML,CSS

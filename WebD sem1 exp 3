@@ -1,0 +1,68 @@
+><html>
+  <head>
+    <title> time table</title>
+    </head>
+    <body><p><b>NAME:KARTIKA MOGHA</b></p>
+    <b><p>ADMISSION NUMBER:2026B02310081</p></b>
+    <table border="1" width="95%" cellpadding="10">
+      <caption>sample table</caption>
+      <tr>
+        <th>time/day</th>
+        <th>8:50-9:40</th>
+        <th>9:40-10:30</th>
+        <th>10:30-11:30</th>
+        <th>11:30-12:20</th>
+        <th>12:20-01:10</th>
+        <th>1:10-2:00</th>
+        <th>2:00-2:50</th>
+        <th>2:50-3:40</th>
+        <th>3:40-4:30</th>
+        </tr>
+        <tr>
+          <th>Monday</th>
+          <td colspan="2"bgcolor="sky blue" align="centre">Applied physics lab</tdcolspan></td>
+        <td bgcolor="yellow" align="centre">Fundamental of linear algebra and statics</td> 
+        <td rowspan="2"bgcolor="pink"align="centre">Applied physics</td>
+        <td rowspan="5"bgcolor="orange"> lunch time</td>
+        <td bgcolor="lightgreen">Programming in cpp</td>
+        <td bgcolor="yellow">Fundamental of linear algebra and statics</td>
+        <td bgcolor="skyblue">Basics of electrical engineering</td>
+        <td bgcolor="facecolor">Web designing</td>
+        </tr>
+        <tr><th>tuesday</th>
+        <td bgcolor="skyblue">Basics of electrical engineering</td>
+        <td bgcolor="yellow">Fundamentals of linear algebra and statics</td>
+        <td bgcolr="pink">Environmental and suistainability</td>
+        <td bgcolor="yellow">Fundamentals of linear algebra and statics</td>
+        <td bgcolor="lightgreen"> Programmin gin cpp</td>
+        <td colspan="2"bgcolor="pink" align="centre">CAD lab</td>
+        </tr>
+        <tr><th>Wednesday</th>
+        <td bgcolor="pink"> Applied physics</td>
+        <td rowspan="2 "bgcolor='skyblue' align="centre">Basics of electrical engineering</td>
+        <td bgcolor="yellow">Fundamental of linear algebra and statics</td>
+        <td> Essential of AI</td>
+        <td colspan="2" bgcolor="lightgreen" align="centre">Programming in cpp</td>
+        <td colspan="2" align ="centre">Mentoe mentee</td>
+        </tr>
+        <tr>
+          <th>Thursady</th>
+          <td> Essential of AI</td>
+          <td> Environmental and suistainability</td>
+          <td bgcolor="lightgreen">Programming in cpp</td>
+          <td bgcolor="pink">Applied physics</td>
+          <td bgcolor="yellow">Fundamental of linear algebra and statics</td>
+          <td colspan="2" bgcolor="skyblue" align="centre"Basics of electrical engineering></td>
+          </tr>
+          <tr>
+            <th>Friday</th>
+            <td bgcolor="lightgreen">Programmin gin cpp</td>
+            <td bgcolor=" yellow">Fundamental of linear algebra and statics</td>
+            <td colspan="2" bgcolor="orange" align ="centre">Web developmental workshop</td>
+            <td>Environmental and suistainability</td>
+            <td bgcolor="pink"> Applied physics</td>
+            <td bgcolor="skyblue">basics of electrical engineering</td>
+            <td>Essential of AI</td>
+             </tr>
+             </body>
+    </html>
